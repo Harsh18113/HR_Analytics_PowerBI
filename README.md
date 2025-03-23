@@ -1,4 +1,7 @@
-# HR_Analytics
+# HR_Analytics_Dashboard
+
+![image](https://github.com/user-attachments/assets/f9d0d65c-a503-480a-8aa1-1d9bd98c2952)
+
 
 📊 Unveiling HR Analytics Dashboard with Power BI 📊
 
